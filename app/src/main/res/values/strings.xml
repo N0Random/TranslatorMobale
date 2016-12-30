@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Api</string>
+    <string name="action_settings">Settings</string>
+    <string name="API_kay">trnsl.1.1.20161230T002515Z.8ebc16bc36935e42.0114e16d3be2c74fcae0d497a7fb330174f8c064</string>
+    <string name="Base_url">https://translate.yandex.net/</string>
+    <string-array name="Lang">
+        <item> азербайджанский:az</item>
+        <item>македонский:mk</item>
+        <item>албанский:sq</item>
+        <item>маори:mi</item>
+        <item>  амхарский:am</item>
+        <item>  маратхи:mr</item>
+        <item>  английский:en</item>
+        <item> марийский:mhr</item>
+        <item> арабский:ar</item>
+        <item>  монгольский:mn</item>
+        <item>  армянский:hy</item>
+        <item>   немецкий:de</item>
+        <item>   африкаанс:af</item>
+        <item>  непальский:ne</item>
+        <item>  баскский:eu</item>
+        <item>  норвежский:no</item>
+        <item>  башкирский:ba</item>
+        <item>  панджаби:pa</item>
+        <item>   белорусский:be</item>
+        <item>   папьяменто:pap</item>
+        <item>  бенгальский:bn</item>
+        <item>  персидский:fa</item>
+        <item>  болгарский:bg</item>
+        <item>  польский:pl</item>
+        <item> боснийский:bs</item>
+        <item>  португальский:pt</item>
+        <item>  валлийский:cy</item>
+        <item>  румынский:ro</item>
+        <item>  венгерский:hu</item>
+        <item>  русский:ru</item>
+        <item>  вьетнамский:vi</item>
+        <item> себуанский:ceb</item>
+        <item> гаитянский(креольский):ht</item>
+        <item>   сербский:sr</item>
+        <item> галисийский:gl</item>
+        <item> сингальский:si</item>
+        <item> голландский:nl</item>
+        <item> словацкий:sk</item>
+        <item> горномарийский:mrj</item>
+        <item> словенский:sl</item>
+        <item> греческий:el</item>
+        <item> суахили:sw</item>
+        <item> грузинский:ka</item>
+        <item> сунданский:su</item>
+        <item> гуджарати:gu</item>
+        <item>  таджикский:tg</item>
+        <item>  датский:da</item>
+        <item>  тайский:th</item>
+        <item>  иврит:he</item>
+        <item> тагальский:tl</item>
+        <item>  идиш:yi</item>
+        <item>  тамильский:ta</item>
+        <item>  индонезийский:id</item>
+        <item>  татарский:tt</item>
+        <item>  ирландский:ga</item>
+        <item> телугу:te</item>
+        <item>  итальянский:it</item>
+        <item>  турецкий:tr</item>
+        <item> исландский:is</item>
+        <item> удмуртский:udm</item>
+        <item> испанский:es</item>
+        <item>  узбекский:uz</item>
+        <item>  казахский:kk</item>
+        <item>  украинский:uk</item>
+        <item>  каннада:kn</item>
+        <item> урду:ur</item>
+        <item>  каталанский:ca</item>
+        <item>  финский:fi</item>
+        <item> киргизский:ky</item>
+        <item>  французский:fr</item>
+        <item> китайский:zh</item>
+        <item> хинди:hi</item>
+        <item> корейский:ko</item>
+        <item>  хорватский:hr</item>
+        <item>  коса:xh</item>
+        <item>  чешский:cs</item>
+        <item>  латынь:la</item>
+        <item>  шведский:sv</item>
+        <item> латышский:lv</item>
+        <item> шотландский:gd</item>
+        <item> литовский:lt</item>
+        <item> эстонский:et</item>
+        <item> малагасийский:mg</item>
+        <item> эсперанто:eo</item>
+        <item>  малайский:ms</item>
+        <item>яванский:jv</item>
+        <item> малаялам:ml</item>
+        <item>   японский:ja</item>
+        <item> мальтийский:mt</item>
+    </string-array>
+    <string name="FirstPar">key</string>
+    <string name="SecondPar">text</string>
+    <string name="ThirdPar">lang</string>
+    <string name="err401">Неправильный API-ключ</string>
+    <string name="err402">API-ключ заблокирован</string>
+    <string name="err404">Превышено суточное ограничение на объем переведенного текста</string>
+    <string name="err413">Превышен максимально допустимый размер текста</string>
+    <string name="err422">Текст не может быть переведен</string>
+    <string name="err501">Заданное направление перевода не поддерживается</string>
+    <string name="errNAN">Неизвестная ошибка</string>
+    <string name="inText">Введите текст для перевода </string>
+    <string name="oText">Переведенный текст</string>
+    <string name="Start">Перевести</string>
+    <string name="emptyStr"></string>
+    <string name="from">С</string>
+    <string name="to">На</string>
+
+    <string name="Author">Сделал Львов Е.Ю.</string>
+    <string name="Tr">Переводчик</string>
+
+    <string name="UrlAdrSer">https://yandex.ru/legal/translate_termsofuse/</string>
+    <string name="End"> Переведено сервисом «Яндекс.Переводчик»</string>
+</resources>
